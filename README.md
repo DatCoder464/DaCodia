@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DatCoder464
-- 👀 I’m interested in industrializing create
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me discord
+- 👋 Hi, I’m @DatCodia464
+- I’m currently learning how to breath
+- My discord username is DaCodia#9802
 
 <!---
 DatCoder464/DatCoder464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
